@@ -1,2 +1,2 @@
 # MonicaPriya
-Hi There
+Hi There, 👋 Welcome to my GitHub repository! This space showcases my journey and passion for AI, Machine Learning, and Web Development. Here, you'll find a collection of my projects, featuring implementations in Python, TensorFlow, OpenCV, and more. From data science and computer vision to full-stack applications, each project reflects my dedication to building innovative solutions. Feel free to explore, contribute, or provide feedback!.
